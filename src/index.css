@@ -280,7 +280,7 @@ nav {
   align-items: center;
 }
 .logo {
-  text-transform: none;
+  text-transform: capitalize;
   color: var(--white);
   letter-spacing: 3px;
   font-weight: 700;
@@ -289,7 +289,7 @@ nav {
   width: 2rem;
   height: 2rem;
   background: var(--white);
-  color: var(--primary-700);
+  color: var(--primary-800);
   border-radius: var(--borderRadius);
   border-color: transparent;
   transition: var(--transition);
